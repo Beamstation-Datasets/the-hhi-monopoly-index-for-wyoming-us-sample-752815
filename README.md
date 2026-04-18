@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Wyoming, US
 
-> Free BeamStation sample export with 8 rows and masked direct-contact fields.
+> Free BeamStation sample export with 7 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `752815` |
 | Location | Wyoming |
 | Category | Restaurants |
-| Full dataset size | 81 records |
-| Free sample size | 8 records (9.88%) |
-| Last export | 2026-04-07T18:47:07.321948+00:00 |
+| Full dataset size | 78 records |
+| Free sample size | 7 records (8.97%) |
+| Last export | 2026-04-15T00:01:05.489334+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-wyoming-us-sample-752815/releases/download/sample-latest/beamstation_752815_restaurants-us-wy_SAMPLE_DIST.csv) |
 
 ## What is in this sample
