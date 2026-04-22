@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8bb0b658-bbe3-4651-92f1-17f5388e9fe3",
+  "export_job_id": "0e5dc8c0-3a10-4e02-9ac8-f3f9ee385ce2",
   "id_short": 752815,
-  "published_at": "2026-04-18T19:50:52Z",
+  "published_at": "2026-04-22T07:57:40Z",
   "repo_name": "the-hhi-monopoly-index-for-wyoming-us-sample-752815",
   "sample_asset_name": "beamstation_752815_restaurants-us-wy_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/752815/beamstation_752815_restaurants-us-wy_SAMPLE_DIST.csv",
-  "sample_records": 7,
-  "sample_sha256": "ef55b4be7abdfcb8c7e1d346bdf8d79346871b57573a72ac44423948de182419",
-  "sample_size_bytes": 41989,
-  "total_records": 78
+  "sample_records": 4,
+  "sample_sha256": "30ac50fb1cc6f4de9353fd3ae7fc6b72aefc40738b819349752f5d7f290a87ff",
+  "sample_size_bytes": 30964,
+  "total_records": 46
 }
